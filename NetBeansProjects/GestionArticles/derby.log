@@ -1,0 +1,36 @@
+Tue Nov 24 08:25:52 CET 2015 : Apache Derby Network Server - 10.10.2.0 - (1582446) started and ready to accept connections on port 1527
+----------------------------------------------------------------
+Tue Nov 24 08:26:50 CET 2015:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance a816c00e-0151-3862-5deb-ffff86e39239 
+on database directory /Users/Meriem/NetBeansProjects/GestionArticles/Fournisseurs with class loader sun.misc.Launcher$AppClassLoader@5451c3a8 
+Loaded from file:/Applications/NetBeans/glassfish-4.1/javadb/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_25-b17
+user.dir=/Applications/NetBeans/glassfish-4.1/javadb
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.11
+derby.system.home=/Users/Meriem/NetBeansProjects/GestionArticles
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue Nov 24 08:55:18 CET 2015:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance a850c083-0151-3862-5deb-ffff86e39239 
+on database directory /Users/Meriem/NetBeansProjects/GestionArticles/Defile with class loader sun.misc.Launcher$AppClassLoader@5451c3a8 
+Loaded from file:/Applications/NetBeans/glassfish-4.1/javadb/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_25-b17
+user.dir=/Applications/NetBeans/glassfish-4.1/javadb
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.11
+derby.system.home=/Users/Meriem/NetBeansProjects/GestionArticles
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue Nov 24 08:55:20 CET 2015:
+Shutting down instance a850c083-0151-3862-5deb-ffff86e39239 on database directory /Users/Meriem/NetBeansProjects/GestionArticles/Defile with class loader sun.misc.Launcher$AppClassLoader@5451c3a8 
+Tue Nov 24 08:55:20 CET 2015 Thread[DRDAConnThread_11,5,main] (DATABASE = Defile), (DRDAID = {39}), Database 'Defile' shutdown.
+----------------------------------------------------------------
+Tue Nov 24 08:56:46 CET 2015: Shutting down Derby engine
+----------------------------------------------------------------
+Tue Nov 24 08:56:46 CET 2015:
+Shutting down instance a816c00e-0151-3862-5deb-ffff86e39239 on database directory /Users/Meriem/NetBeansProjects/GestionArticles/Fournisseurs with class loader sun.misc.Launcher$AppClassLoader@5451c3a8 
