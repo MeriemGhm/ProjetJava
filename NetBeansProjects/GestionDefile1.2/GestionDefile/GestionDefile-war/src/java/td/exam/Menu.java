@@ -84,6 +84,8 @@ public class Menu extends HttpServlet {
                 }
                 
             }else if(act.equals("demandeLogin")){
+                // Traitement lors de la demande de connexion
+                // en fonction du type de personne qui se connecte on lui affiche le bon menu
                 
                 String login = request.getParameter("login");
                 String pass = request.getParameter("password");
